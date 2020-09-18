@@ -220,7 +220,7 @@ input, select, textarea {
 	}
 
 	header {
-		font-family: "Bitter", serif;
+		font-family: "Monaco", serif;
 		font-weight: 400;
 	}
 
@@ -1286,7 +1286,7 @@ input, select, textarea {
 
 					#header nav ul li.active a {
 						background-color: #000000;
-						color: #ffffff;
+						color: #3b3b3b;
 					}
 
 		@media screen and (max-width: 980px) {
