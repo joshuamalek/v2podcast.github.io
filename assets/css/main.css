@@ -1,6 +1,24 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Bitter:400,700|Pacifico");
-@import url(webfonts-stylesheet.css)
+
+@font-face {
+    font-family: 'chikaregomedium';
+    src: url("http://v2podcast.com/assets/webfontkit/chikarego-webfont.woff2") format('woff2'),
+         url("http://v2podcast.com/assets/webfontkit/chikarego-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'andale_monoregular';
+    src: url("http://v2podcast.com/assets/webfontkit/andale_mono-webfont.woff2") format('woff2'),
+         url("http://v2podcast.com/assets/webfontkit/andale_mono-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 
 /*
 	Landscape by Pixelarity
