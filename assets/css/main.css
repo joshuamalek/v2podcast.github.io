@@ -1264,7 +1264,7 @@ input, select, textarea {
 						height: 3.5em;
 						border-radius: 4px;
 						padding: 0 2em;
-						font-family: "Bitter", serif;
+						font-family: "Adobe Garmond Pro", serif;
 						font-weight: 400;
 						text-transform: uppercase;
 						letter-spacing: 0.25em;
@@ -1285,8 +1285,8 @@ input, select, textarea {
 					}
 
 					#header nav ul li.active a {
-						background-color: #ffffff;
-						color: #42aec5;
+						background-color: #000000;
+						color: #ffffff;
 					}
 
 		@media screen and (max-width: 980px) {
