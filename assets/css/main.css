@@ -173,7 +173,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Monaco", serif;
+		font-family: "Adobe Garamond Pro", serif;
 		font-weight: 700;
 		line-height: 1.4;
 		margin: 0 0 1em 0;
@@ -193,7 +193,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Pacifico", cursive;
+		font-family: "Adobe Garamond Pro", cursive;
 		font-weight: 400;
 		font-size: 3.25em;
 		margin: 0 0 0.25em 0;
@@ -1216,7 +1216,7 @@ input, select, textarea {
 		top: 0;
 		left: 0;
 		width: 100%;
-		background-color: #42aec5;
+		background-color: #000000;
 		color: #ffffff;
 		height: 3.25em;
 		line-height: 3.25em;
