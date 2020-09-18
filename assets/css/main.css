@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Bitter:400,700|Pacifico");
+@import url("http://v2podcast.com/assets/webfontkit/stylesheet.css")
 
 /*
 	Landscape by Pixelarity
@@ -120,7 +121,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "andale_monoregular", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.65;
@@ -173,7 +174,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Adobe Garamond Pro", serif;
+		font-family: "chikaregomedium", serif;
 		font-weight: 700;
 		line-height: 1.4;
 		margin: 0 0 1em 0;
@@ -193,7 +194,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Adobe Garamond Pro", cursive;
+		font-family: "chikaregomedium", cursive;
 		font-weight: 400;
 		font-size: 3.25em;
 		margin: 0 0 0.25em 0;
@@ -220,7 +221,7 @@ input, select, textarea {
 	}
 
 	header {
-		font-family: "Monaco", serif;
+		font-family: "chikaregomedium", serif;
 		font-weight: 400;
 	}
 
@@ -1264,7 +1265,7 @@ input, select, textarea {
 						height: 3.5em;
 						border-radius: 4px;
 						padding: 0 2em;
-						font-family: "Adobe Garamond Pro", serif;
+						font-family: "Chicago", serif;
 						font-weight: 400;
 						text-transform: uppercase;
 						letter-spacing: 0.25em;
