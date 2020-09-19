@@ -717,6 +717,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
+			opacity: 0.5;
 		}
 
 		.image.left, .image.right {
