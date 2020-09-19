@@ -626,7 +626,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #2b2b2b;
+			background: #000000;
 		}
 
 	input[type="checkbox"] + label,
