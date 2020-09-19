@@ -1072,10 +1072,10 @@ input, select, textarea {
 		background-color: transparent;
 		border: solid 1px !important;
 		color: inherit;
-		font-family: "Bitter", serif;
+		font-family: "chikaregomedium";
 		font-weight: 400;
 		letter-spacing: 0.25em;
-		text-transform: uppercase;
+		text-transform: none;
 		font-size: 0.8em;
 	}
 
