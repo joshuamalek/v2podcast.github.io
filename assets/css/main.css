@@ -1342,7 +1342,7 @@ input, select, textarea {
 			background: #2b2b2b;
 			z-index: 100;
 			visibility: hidden;
-			opacity: 0.5;
+			opacity: 0;
 		}
 
 		#main .reel {
