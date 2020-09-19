@@ -717,7 +717,6 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
-			opacity: 0.5;
 		}
 
 		.image.left, .image.right {
@@ -1343,7 +1342,7 @@ input, select, textarea {
 			background: #2b2b2b;
 			z-index: 100;
 			visibility: hidden;
-			opacity: 0;
+			opacity: 0.5;
 		}
 
 		#main .reel {
