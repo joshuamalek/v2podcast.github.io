@@ -17,9 +17,9 @@
     <h1>User enters its name</h1>
       <div class="input-box">
         <input type="password" name="password" placeholder="enter your name">
-          <div class="login-btn">
-            <button type="submit" placeholder=">"></button>
-          </div>
+      </div>
+      <div class="login-btn">
+        <button type="submit" placeholder=">"></button>
       </div>
     </div>
 </form>
