@@ -13,11 +13,12 @@
 
   <div class="pwform-box">
       <h1>Login Here</h1>
+      <div class="input-box">
+      <p>Enter password for access:</p>
+      <input type="password" name="password">
+      <button type="submit">Submit</button>
+    </div>
   </div>
-   
-  <p>Enter password for access:</p>
-  <input type="password" name="password">
-  <button type="submit">Submit</button>
 </form>
 
 </body>
