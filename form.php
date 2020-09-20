@@ -10,7 +10,7 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    Invalid password
+    That is not your name, User.
   <?php } ?>
 
   <div class="pwform-box">
