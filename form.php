@@ -2,6 +2,8 @@
   <head>
       <title>Enter Password</title>
       <link rel="stylesheet" href="assets/css/pwform.css">
+      <link rel="stylesheet" href="assets/webfontkit/wfk-stylesheet.css" />
+
   </head>
   <body>
 
