@@ -8,6 +8,14 @@ body{
     background-position: center;
     font-family: "andale_monoregular";
 }
+.inc-pw{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: "chikaregomedium";
+    font-size: 40px;
+}
+
+
 
 .pwform-box{
     width: 500px;
@@ -48,6 +56,7 @@ h1{
     color: #fff;
     font-family: "andale_monoregular";
     font-size: 13px;
+    text-align: center;
 }
 
 .login-btn {
