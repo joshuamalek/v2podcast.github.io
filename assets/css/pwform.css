@@ -3,9 +3,9 @@
   padding: 0;
 }
 body{
-    background-image: url(pic01);
+    background-color: 00000;
     background-size: cover;
-    background position: center;
+    background-position: center;
     font-family: "chikaregomedium";
 }
 
