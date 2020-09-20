@@ -18,7 +18,7 @@
       <div class="input-box">
         <input type="password" name="password" placeholder="Enter your name to proceed.">
       </div>
-      <button type="submit" class="login-btn"> > </button>
+      <button type="submit" class="login-btn"> --> </button>
   </div>
 </form>
 
