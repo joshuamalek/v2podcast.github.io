@@ -46,3 +46,18 @@ h1{
 ::placeholder{
     color: #ccc;
 }
+
+.login-btn {
+  margin: 40px auto 20px;
+  width: 80%;
+  display: block;
+  outline: none;
+  padding: 10px 0;
+  border: 1px solid #fff;
+  cursor: pointer;
+  background: transparent;
+  color: #fff;
+  font-family: "chikaregomedium";
+  font-size: 16px;
+
+}
