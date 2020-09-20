@@ -16,24 +16,13 @@
   <div class="pwform-box">
       <h1>User enters its name.</h1>
       <div class="input-box">
-        <input type="password" name="password" value="FakePSW" id="myInput" placeholder="What is your name, User?">
-        <input type="checkbox" onclick="myFunction()"> Show User name
+        <input type="password" name="password" onmouseover="this.type='text'"
+       onmouseout="this.type='password'" placeholder="What is your name, User?" />
+
       </div>
       <button type="submit" class="login-btn"> proceed </button>
   </div>
 </form>
-
-<!--JS - for toggle show PW-->
-<script>
-function myFunction() {
-  var x = document.getElementById("myInput");
-  if (x.type === "password") {
-    x.type = "text";
-  } else {
-    x.type = "password";
-  }
-}
-</script>
 
 </body>
 </html>
