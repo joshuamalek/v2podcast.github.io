@@ -14,7 +14,7 @@
   <?php } ?>
 
   <div class="pwform-box">
-      <h1>You are the User of the Program.</br>User will now enter its name to proceed.</h1>
+      <div class="inc-pw"><h1>You are the User of the Program.</br>User will now enter its name.</h1></div>
       <div class="input-box">
         <input type="password" name="password" onmousedown="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
@@ -23,6 +23,7 @@
       <button type="submit" class="login-btn"> proceed </button>
   </div>
 </form>
+
 
 </body>
 </html>
