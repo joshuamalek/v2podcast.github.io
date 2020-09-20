@@ -14,14 +14,14 @@
   <?php } ?>
 
   <div class="pwform-box">
-      <h1>User enters its name</h1>
+    <h1>User enters its name</h1>
       <div class="input-box">
-      <input type="password" name="password" placeholder="enter your name">
-      <div class="login-btn">
-      <button type="submit">Submit</button>
+        <input type="password" name="password" placeholder="enter your name">
+          <div class="login-btn">
+            <button type="submit" placeholder=">"></button>
+          </div>
       </div>
     </div>
-  </div>
 </form>
 
 </body>
