@@ -14,10 +14,9 @@
   <?php } ?>
 
   <div class="pwform-box">
-      <h1>Login Here</h1>
+      <h1>you are the User</h1>
       <div class="input-box">
-      <p>You are the User</br></p>
-      <input type="password" name="password" placeholder="User's Name">
+      <input type="password" name="password" placeholder="enter your name">
       <button type="submit">Submit</button>
     </div>
   </div>
