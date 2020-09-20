@@ -10,10 +10,10 @@ body{
 }
 .inc-pw{
     text-align: center;
-    margin-bottom: 40px;
-    font-family: "chikaregomedium";
+    padding-top: 100px;
+    font-family: "andale_monoregular";
     color: #fff;
-    font-size: 40px;
+    font-size: 13px;
 }
 
 .pwform-box{
@@ -34,7 +34,7 @@ h1{
 
 .input-box{
     margin: 31px auto;
-    width: 30%;
+    width: 60%;
     border-bottom: 1px dotted #fff;
     padding-top: 10px;
     padding-bottom: 5px;

@@ -14,9 +14,9 @@
   <?php } ?>
 
   <div class="pwform-box">
-      <h1>If you are the User of the Program</h1>
+      <h1>You are the User of the Program</h1>
       <div class="input-box">
-        <input type="password" name="password" placeholder="then what is your name?">
+        <input type="password" name="password" placeholder="Enter your name to proceed.">
       </div>
       <button type="submit" class="login-btn"> > </button>
   </div>
