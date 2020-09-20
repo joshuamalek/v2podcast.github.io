@@ -1,5 +1,11 @@
 <html>
-<body>
+  <head>
+      <title>Enter Password</title>
+      <link rel="stylesheet" href="assets/css/pwform.css">
+  </head>
+  <body>
+  <div class="pwform-box">
+  </div>
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
