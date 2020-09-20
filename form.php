@@ -14,9 +14,9 @@
   <?php } ?>
 
   <div class="pwform-box">
-      <h1>User enters its name.</h1>
+      <h1>You are the User of the Program.</br>User will now enter its name to proceed.</h1>
       <div class="input-box">
-        <input type="password" name="password" onmouseover="this.type='text'"
+        <input type="password" name="password" onmousedown="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
 
       </div>
