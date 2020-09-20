@@ -10,7 +10,7 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    <div class="inc-pw" id="error">That is not your name, User.</br>User has already been told its name.</div>
+    <div class="inc-pw" id="error"></div>
   <?php } ?>
 
   <div class="pwform-box">
