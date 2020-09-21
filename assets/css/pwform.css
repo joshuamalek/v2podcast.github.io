@@ -17,10 +17,10 @@ body{
     text-transform: none;
 }
 
-.inc-pw-dark{
+.inc-pw-light{
     text-align: center;
     font-family: "andale_monoregular";
-    color: #888;
+    color: #fff;
     font-size: 11px;
     text-transform: none;
 }
@@ -52,7 +52,7 @@ h2{
     margin-bottom: 30px;
     font-family: "andale_monoregular";
     font-size: 11px;
-    color: #888;
+    color: #fff;
     text-transform: none;
     font-weight: normal;
 }
@@ -92,10 +92,10 @@ h2{
     display: block;
     outline: none;
     padding: 10px;
-    border: 1px dotted;
+    border: 1px dotted #444;
     cursor: pointer;
     background: transparent;
-    color: #444;
+    color: #fff;
     font-family: "andale_monoregular";
     font-size: 11px;
     text-transform: none;
