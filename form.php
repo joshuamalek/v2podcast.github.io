@@ -10,13 +10,12 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    <div id="error"></div>
+    <div id="error" value="Hello poopface"></div>
   <?php } ?>
 
   <div class="pwform-box">
-  
       <div class="input-box">
-        <input type="password" name="password" onmousedown="this.type='text'"
+        <input type="password" name="password" onmouseover="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
 
       </div>
