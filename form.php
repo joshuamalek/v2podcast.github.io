@@ -10,11 +10,11 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    <div class="inc-pw" id="error"></div>
+    <div id="error"></div>
   <?php } ?>
 
   <div class="pwform-box">
-    <div class="user-msg" id="error" placeholder="You are the User of the Program.</br>User will now enter its name."></div>
+  
       <div class="input-box">
         <input type="password" name="password" onmousedown="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
@@ -27,11 +27,8 @@
 <!--JS for incorrect password text-->
 <script>
 function check(){
-    if(document.getElementById("victory").value == "victory")
+    if(document.getElementById("error").value == "Wrong keyword entry.")
         return true;
-    else
-        document.getElementById("error").innerHTML = "Wrong keyword entry."
-        return false;
 }
 </script>
 </body>
