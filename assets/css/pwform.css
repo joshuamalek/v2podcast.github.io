@@ -61,7 +61,7 @@ h2{
 h3{
     font-weight: normal;
     text-align: left;
-    margin-bottom: 30px;
+    margin-top: 50px;
     font-family: "andale_monoregular";
     font-size: 13px;
     color: #222;
@@ -74,7 +74,7 @@ h3{
     width: 60%;
     border-bottom: 1px dotted #fff;
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
     text-align: left;
     opacity: 1;
 }
@@ -86,7 +86,7 @@ h3{
     background: transparent;
     color: #fff;
     font-family: "chikaregomedium";
-    font-size: 65px;
+    font-size: 80px;
     text-align: left;
 }
 
@@ -98,12 +98,11 @@ h3{
 }
 
 .login-btn {
-    margin-top: 50px;
-    margin-bottom: 35px;
+    margin-top: 0px 0px 35px 0px;
     width: 15%;
     display: block;
     outline: none;
-    padding: 10px;
+    padding: 0px;
     border: 1px dotted #444;
     cursor: pointer;
     background: transparent;
