@@ -57,6 +57,16 @@ h2{
     font-weight: normal;
 }
 
+h3{
+    font-weight: normal;
+    text-align: left;
+    margin-bottom: 30px;
+    font-family: "andale_monoregular";
+    font-size: 13px;
+    color: #222;
+    text-transform: none;
+    font-weight: normal;
+
 .input-box{
     margin: 0px;
     width: 60%;
