@@ -16,7 +16,10 @@
             <div class="inc-pw-light">//That is not your name, User.</br>User is reminded of its name.</div>
       <?php } ?>
 
-      <h1>err$== require User.comply [_FORCE</h1>
+      <h1>#define User;</br> #detect User.name;</br>  class Microphone:</br>
+	       record_(User.name):</br>import User.name_into = "Version2.0.exe"</br>
+         int command() {
+      </h1>
       <h2>User enters its name.</h2>
       <div class="input-box">
         <input type="password" name="password" onmouseover="this.type='text'"
