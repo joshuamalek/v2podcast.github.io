@@ -10,7 +10,7 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    asdfsdfsdfasdfasdfasd
+    <div class="inc-pw" value="That is not your name"></div>
   <?php } ?>
 
   <div class="pwform-box">
