@@ -1,5 +1,5 @@
 *{
-  margin: 5;
+  margin: 5px;
   padding: 0;
 }
 
@@ -53,6 +53,17 @@ h2{
     font-family: "andale_monoregular";
     font-size: 13px;
     color: #fff;
+    text-transform: none;
+    font-weight: normal;
+}
+
+h3{
+    font-weight: normal;
+    text-align: left;
+    margin-bottom: 30px;
+    font-family: "andale_monoregular";
+    font-size: 13px;
+    color: #222;
     text-transform: none;
     font-weight: normal;
 }
