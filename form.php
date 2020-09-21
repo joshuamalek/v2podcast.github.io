@@ -12,7 +12,7 @@
 
     <form method="POST">
       <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-        <div class="inc-pw">That is not your name.</div>
+        <div class="inc-pw">err$_// That is not your name, User.</br>User is reminded of its name.</div>
       <?php } ?>
 
       <h1>User enters its name.</h1>
@@ -20,7 +20,7 @@
         <input type="password" name="password" onmouseover="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
       </div>
-      <button type="submit" class="login-btn"> proceed </button>
+      <button type="submit" class="login-btn"> Proceed </button>
   </div>
 </form>
 
