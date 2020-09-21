@@ -9,12 +9,20 @@ body{
     background-position: center;
 }
 
-.inc-pw{
+.inc-pw-dark{
     text-align: center;
     font-family: "andale_monoregular";
-    color: #444;
+    color: #222;
     font-size: 11px;
-    text-transform: uppercase;
+    text-transform: none;
+}
+
+.inc-pw-dark{
+    text-align: center;
+    font-family: "andale_monoregular";
+    color: #888;
+    font-size: 11px;
+    text-transform: none;
 }
 
 .pwform-box{
@@ -33,8 +41,19 @@ h1{
     margin-bottom: 30px;
     font-family: "andale_monoregular";
     font-size: 11px;
-    color: #444;
-    text-transform: uppercase;
+    color: #222;
+    text-transform: none;
+    font-weight: normal;
+}
+
+h2{
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: "andale_monoregular";
+    font-size: 11px;
+    color: #888;
+    text-transform: none;
     font-weight: normal;
 }
 
@@ -79,6 +98,6 @@ h1{
     color: #444;
     font-family: "andale_monoregular";
     font-size: 11px;
-    text-transform: uppercase;
+    text-transform: none;
     box-shadow: 0 0 20px 2px rgba(0,0,0,0.5)
 }

@@ -12,15 +12,17 @@
 
     <form method="POST">
       <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-        <div class="inc-pw">err$_// That is not your name, User.</br>User is reminded of its name.</div>
+        <div class="inc-pw-dark">err$== require User.comply [_FORCE]</br>d98kasdlf df8asksdfk s</div>
+            <div class="inc-pw-light">//That is not your name, User.</br>User is reminded of its name.</div>
       <?php } ?>
 
-      <h1>User enters its name.</h1>
+      <h1>err$== require User.comply [_FORCE</h1>
+      <h2>User enters its name.</h2>
       <div class="input-box">
         <input type="password" name="password" onmouseover="this.type='text'"
        onmouseout="this.type='password'" placeholder="enter name" />
       </div>
-      <button type="submit" class="login-btn"> Proceed </button>
+      <button type="submit" class="login-btn"> _proceed </button>
   </div>
 </form>
 
