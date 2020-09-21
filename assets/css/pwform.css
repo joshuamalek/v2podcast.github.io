@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #999;
+    background-color: #000;
     background-size: cover;
     background-position: left;
 }
@@ -26,9 +26,10 @@ body{
 }
 
 .pwform-box{
+    position: relative;
     width: 700px;
     background: rgba(0,0,0,1);
-    margin-top: 50%;
+    margin-top: 10%;
     padding: 5px;
     color: #ffffff;
 }
@@ -66,10 +67,7 @@ h3{
     color: #222;
     text-transform: none;
     font-weight: normal;
-<<<<<<< HEAD
 }
-=======
->>>>>>> f93e2a90c4d5c8718a0486fe741593ddc09a6872
 
 .input-box{
     margin: 0px;
