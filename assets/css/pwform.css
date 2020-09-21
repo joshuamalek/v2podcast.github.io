@@ -11,16 +11,6 @@ body{
 
 .inc-pw{
     text-align: center;
-    padding-top: 100px;
-    font-family: "andale_monoregular";
-    color: #333;
-    font-size: 11px;
-    text-transform: uppercase;
-}
-
-#err-msg{
-    text-align: center;
-    padding-top: 100px;
     font-family: "andale_monoregular";
     color: #333;
     font-size: 11px;
