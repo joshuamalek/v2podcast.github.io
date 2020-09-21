@@ -10,7 +10,7 @@
 
 <form method="POST">
   <?php if( $_SERVER['REQUEST_METHOD'] == 'POST' ) { ?>
-    <div id="error" value="Hello poopface"></div>
+    <div id="error" value="Hello poopface">asdfasdf</div>
   <?php } ?>
 
   <div class="pwform-box">
@@ -23,12 +23,6 @@
   </div>
 </form>
 
-<!--JS for incorrect password text-->
-<script>
-function check(){
-    if(document.getElementById("error").value == "Wrong keyword entry.")
-        return true;
-}
-</script>
+
 </body>
 </html>
