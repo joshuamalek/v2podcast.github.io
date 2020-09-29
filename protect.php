@@ -29,7 +29,7 @@ function with($form, $password, $scope=null) {
 #### PRIVATE ####
 
 function current_url($script_only=false) {
-  $protocol = 'http';
+  $protocol = 'https';
   $port = ':'.$_SERVER["SERVER_PORT"];
   if($_SERVER["HTTPS"] == 'on') $protocol .= 's';
   if($protocol == 'http' && $port == ':80') $port = '';
