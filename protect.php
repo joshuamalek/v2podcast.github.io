@@ -39,6 +39,6 @@ function current_url($script_only=false) {
 }
 
 function redirect($url) {
-  header("Location: https:// $url");
+  header("Location: $url");
   exit;
 }
