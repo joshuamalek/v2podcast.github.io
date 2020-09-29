@@ -29,7 +29,7 @@ function with($form, $password, $scope=null) {
 #### PRIVATE ####
 
 function current_url($script_only=false) {
-  $protocol = 'https';
+  $protocol = 'http';
   $port = ':'.$_SERVER["SERVER_PORT"];
   if($_SERVER["HTTPS"] == 'on') $protocol .= 's';
   if($protocol == 'http' && $port == ':80') $port = '';
@@ -39,6 +39,6 @@ function current_url($script_only=false) {
 }
 
 function redirect($url) {
-  header("Location: $url");
+  header("Location: https:// $url");
   exit;
 }
